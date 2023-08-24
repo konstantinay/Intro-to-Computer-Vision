@@ -1,2 +1,8 @@
 # Intro-to-Computer-Vision
-mini-projects for understanding fundamentals in computer vision
+Mini-Projects for understanding fundamentals in Computer Vision
+
+Mini-Problems in Matlab including:
+* Gaussian and Laplacian Pyramids
+* Basic Geometric Transformations
+* Scale Invariant Feature Transform
+* Comparison of Lucas Kanade and Enhanced Correlation Coefficient (ECC) for Image Alignment
